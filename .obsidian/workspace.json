@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "751bae4a931cae4b",
+        "id": "311b1ef9be80ce34",
         "type": "tabs",
         "children": [
           {
-            "id": "fec83cad0c3aabf9",
+            "id": "8164b64a6f95abcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Poulet à la moutarde de Bourgogne.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Poulet à la moutarde de Bourgogne"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "recipes/Poulet à la moutarde de Bourgogne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Poulet à la moutarde de Bourgogne"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "recipes/Poulet à la moutarde de Bourgogne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Poulet à la moutarde de Bourgogne"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "recipes/Poulet à la moutarde de Bourgogne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Poulet à la moutarde de Bourgogne"
             }
           }
         ]
@@ -173,9 +180,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fec83cad0c3aabf9",
-  "lastOpenFiles": []
+  "active": "8164b64a6f95abcb",
+  "lastOpenFiles": [
+    "recipes/Poulet à la moutarde de Bourgogne.md",
+    "recipes"
+  ]
 }
