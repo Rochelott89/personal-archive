@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Favas com chouriço"
             }
+          },
+          {
+            "id": "8ea44a2bccb21157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Boeuf Bourguignon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boeuf Bourguignon"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f83a953bee92f56e",
+  "active": "8ea44a2bccb21157",
   "lastOpenFiles": [
-    "recipes/Poulet à la moutarde de Bourgogne.md",
     "recipes/Favas com chouriço.md",
+    "recipes/Boeuf Bourguignon.md",
+    "recipes/Poulet à la moutarde de Bourgogne.md",
     "recipes"
   ]
 }
