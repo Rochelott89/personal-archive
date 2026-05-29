@@ -37,8 +37,8 @@
 1. Sortez la viande de son bain d'eau gazeuse et **l'éponger très soigneusement** avec du papier absorbant. 
 	- *Note du chef : Si la viande reste humide, elle va bouillir au lieu de rissoler.*
 
-### 2. Saisie de la viande `#Feu-Vif` (Puissance plaques : 8-9)
-1. Faire chauffer un filet d'huile neutre dans la cocotte en fonte à puissance **8 ou 9**.
+### 2. Saisie de la viande `#Feu-Vif` (Puissance plaques : 6-7)
+1. Faire chauffer un filet d'huile neutre dans la cocotte en fonte à puissance **6 ou 7**.
 2. Déposer les morceaux de bœuf sans surcharger la cocotte (procéder en deux fois si nécessaire).
 3. Laisser colorer environ **5 minutes** pour former une belle croûte.
 4. Retirer la viande de la cocotte et la réserver dans un plat.
