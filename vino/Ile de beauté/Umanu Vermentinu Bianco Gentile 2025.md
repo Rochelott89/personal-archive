@@ -22,19 +22,18 @@
 
 ### Gustatif
 
-- Équilibre : 
-- Structure : 
+- Équilibre : souple
+- Structure : frais
 - Tanins : souples
-- Acidité : fraiche 
-- Longueur en bouche : {{Longueur}}
-- Persistance aromatique : {{Persistance}}
+- Acidité : fraiche, sec mais pas coupant 
+- Longueur en bouche : maigre, ne reste plus de 10 seconds
+- Persistance aromatique : faible
 
 ## Accord mets et vins
 
-- Mets recommandés : {{Accord mets}}
-- Commentaire : {{Commentaire accord}}
-
+- Mets recommandés : fruits de mer légers (más tipo mediterraneo, sin crema), fruits de mer frit aussi meme récomendation que legers, risotto légumes, salades style sicilienne, caprese. Cuisine japonaise style sushi, sashimi, cuisine thai 
+- Commentaire : 
 ## Note personnelle
 
-- Note : {{Note}}/20
-- Commentaire : {{Commentaire personnel}}
+- Note : 10/20
+- Commentaire : hermoso color 
