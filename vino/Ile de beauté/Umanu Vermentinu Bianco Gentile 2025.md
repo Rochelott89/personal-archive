@@ -9,22 +9,23 @@
 ### Visuel
 
 - Couleur : Jaune pâle, jaune lin
-- Intensité : 1/5
+- Intensité : pâle
 - Reflets : argent
-- Viscosité : {{Viscosité}}
+- Larmes : 2/5
+- Bulles : 0
 
 ### Olfactif
 
-- Arômes dominants : {{Arômes}}
-- Complexité : {{Complexité aromatique}}
-- Évolution des arômes : {{Évolution}}
+- Arômes dominants : Floral (1), jasmin; Fruité (2), ananas (entre citrique et fruité acide; Synthèse (3), chimique, levure
+- Complexité : moyenne
+- Évolution des arômes  linaire, peak au début 
 
 ### Gustatif
 
-- Équilibre : {{Équilibre}}
-- Structure : {{Structure}}
-- Tanins : {{Tanins}}
-- Acidité : {{Acidité}}
+- Équilibre : 
+- Structure : 
+- Tanins : souples
+- Acidité : fraiche 
 - Longueur en bouche : {{Longueur}}
 - Persistance aromatique : {{Persistance}}
 
