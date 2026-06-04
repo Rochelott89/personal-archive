@@ -1,17 +1,16 @@
-# {{Nom du vin}} - {{Domaine}} - {{Millésime}}
 
-**Région** : {{Région}}
-**Cépage(s)** : {{Cépage}}
-**Date de dégustation** : {{date}}
+**Région** : Corse
+**Cépage(s)** : Vermentino
+**Date de dégustation** : 04/06/2026
 **Prix** : 7€
 
 ## Analyse sensorielle
 
 ### Visuel
 
-- Couleur : {{Couleur}}
-- Intensité : {{Intensité}}
-- Reflets : {{Reflets}}
+- Couleur : Jaune pâle, jaune lin
+- Intensité : 1/5
+- Reflets : argent
 - Viscosité : {{Viscosité}}
 
 ### Olfactif
