@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vin/jaune",
+                "query": "tag:#vin/sec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2262df5e907ac7ad",
+  "active": "3dc5a26e212493a3",
   "lastOpenFiles": [
     "vino/Ile de beauté/Umanu Vermentinu Bianco Gentile 2025.md",
     "vino/Châteauneuf-du-Pape/Domaine du Grand Tinel.md",

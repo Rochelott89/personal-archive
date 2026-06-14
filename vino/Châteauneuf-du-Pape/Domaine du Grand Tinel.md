@@ -1,4 +1,4 @@
-#corse #vermentino #vin/jaune #vin/sec #vin/
+#provence #ensamblage #grenache #syrah #vin/rouge #vin/élevé #châteauneuf-du-pape #avignon
 
 
 **Région** : Provence - Avignon
@@ -20,22 +20,22 @@
 
 - Arômes dominants : Fruit rouge : framboise, mora (1) ; Gourmand : confiture (2) ; Ligeramente amaderado, menos que un borgoña (3)
 - Complexité : moyenne
-- Évolution des arômes . intense
+- Évolution des arômes : intense
 
 ### Gustatif
 
-- Équilibre : souple
-- Structure : frais
-- Tanins : souples
-- Acidité : fraiche, sec mais pas coupant 
-- Longueur en bouche : maigre, ne reste plus de 10 seconds
-- Persistance aromatique : faible
+- Équilibre : muy equilibrado
+- Structure : ligero, armonioso
+- Tanins : souples, tranquilles 
+- Acidité : moyenne
+- Longueur en bouche : media, se deja estar
+- Persistance aromatique : media
 
 ## Accord mets et vins
 
-- Mets recommandés : fruits de mer légers (más tipo mediterraneo, sin crema), fruits de mer frit aussi meme récomendation que legers, risotto légumes, salades style sicilienne, caprese. Cuisine japonaise style sushi, sashimi, cuisine thai style poisson gingembre garangal, curry vert (pas giga épicé sinon déstructurant).
+- Mets recommandés : daube provencal, plat mijotés style boeuf bourguignon, rabo de toro, cocina provenzal más fresca que la de acá, entraña.
 ## Note personnelle
 
-- Note : 10/20
-- Commentaire : hermoso color y frescor, se puede beber solo he probado mejores, le podría dar otra oportunidad pero no es remarcable, el tercer aroma fue raro pero sobre todo el segundo, aunque nunca dominante, me sacó sonrisas. 
+- Note : 17/20
+- Commentaire : lamentablemente la degustación la hice casi una semana después de abierto, pero agradó mucho en la cena con los papás de Pietro, no es difícil de beber, no es pasoso y es muy versátil. 
 -
