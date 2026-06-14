@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#châteauneuf-du-pape",
+                "query": "tag:#corse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ea44a2bccb21157",
+  "active": "3dc5a26e212493a3",
   "lastOpenFiles": [
     "vino/Ile de beauté/Umanu Vermentinu Bianco Gentile 2025.md",
-    "vino/Châteauneuf-du-Pape/Domaine du Grand Tinel.md",
     "vino/Méditerranée/La Farandole.md",
+    "vino/Châteauneuf-du-Pape/Domaine du Grand Tinel.md",
     "vino/Méditerranée",
     "vino/Châteauneuf-du-Pape",
     "recipes/Boeuf Bourguignon.md",

@@ -1,4 +1,4 @@
-#corse #vermentino #vin/jaune #vin/sec #vin/abordable
+#corse #vermentino #vin/blanc #vin/sec #vin/abordable
 
 Dénomination : île de beauté
 **Région** : Corse
