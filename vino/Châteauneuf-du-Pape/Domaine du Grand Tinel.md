@@ -1,6 +1,6 @@
 #provence #ensamblage #grenache #syrah #vin/rouge #vin/élevé #châteauneuf-du-pape #avignon
 
-
+Dénomination : Châteauneuf-du-Pape
 **Région** : Provence - Avignon
 **Cépage(s)** : 70% grenache , 30% syrah
 **Date de dégustation** : 12/06/2026

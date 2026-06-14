@@ -1,18 +1,18 @@
 #corse #vermentino #vin/jaune #vin/sec #vin/abordable
 
-Dénomination : île de beauté
-**Région** : Corse
-**Cépage(s)** : Vermentino
-**Date de dégustation** : 04/06/2026
-**Prix** : 7€
+Dénomination : Méditerranée (IGP)
+**Région** : Provence - Vaucluse
+**Cépage(s)** : Viognier
+**Date de dégustation** : 14/06/2026
+**Prix** : 7.90€
 
 ## Analyse sensorielle
 
 ### Visuel
 
-- Couleur : Jaune pâle, jaune lin
-- Intensité : pâle
-- Reflets : argent
+- Couleur : Jaune or verte
+- Intensité : moyen
+- Reflets : bronze 
 - Larmes : 2/5
 - Bulles : 0
 
