@@ -1,4 +1,4 @@
-#méditerranée #provence #vin/blanc #vin/sec #vin/abordable
+#méditerranée #provence #vin/blanc #vin/sec #vin/abordable #vin/favori #viognier #bio 
 
 Dénomination : Méditerranée (IGP)
 **Région** : Provence - Vaucluse

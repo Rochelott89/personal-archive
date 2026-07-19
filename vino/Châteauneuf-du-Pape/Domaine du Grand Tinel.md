@@ -1,4 +1,4 @@
-#provence #ensamblage #grenache #syrah #vin/rouge #vin/élevé #châteauneuf-du-pape #avignon
+#provence #ensamblage #grenache #syrah #vin/rouge #vin/élevé #châteauneuf-du-pape #avignon #vin/favori
 
 Dénomination : Châteauneuf-du-Pape
 **Région** : Provence - Avignon
