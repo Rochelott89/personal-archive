@@ -39,10 +39,14 @@
             "id": "8ea44a2bccb21157",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "vino/Collines Rodhaniennes/éole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "éole"
             }
           }
         ],
@@ -212,8 +216,10 @@
   "active": "8ea44a2bccb21157",
   "lastOpenFiles": [
     "vino/Méditerranée/La Farandole.md",
-    "vino/Châteauneuf-du-Pape/Domaine du Grand Tinel.md",
+    "vino/Collines Rodhaniennes/éole.md",
     "vino/Ile de beauté/Umanu Vermentinu Bianco Gentile 2025.md",
+    "vino/Collines Rodhaniennes",
+    "vino/Châteauneuf-du-Pape/Domaine du Grand Tinel.md",
     "vino/Méditerranée",
     "vino/Châteauneuf-du-Pape",
     "recipes/Boeuf Bourguignon.md",
