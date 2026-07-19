@@ -1,7 +1,7 @@
-#Ardèche #collines-rodhaniennes #vin/blanc #vin/sec #vin/abordable 
+
 
 Dénomination : IGP Collines Rodhaniennes
-**Région** : AURA - Rhône - Ardèche 
+**Région** : AURA - Rhône
 **Cépage(s)** : Viognier
 **Date de dégustation** : 19/07/2026
 **Prix** : 8€
@@ -10,17 +10,17 @@ Dénomination : IGP Collines Rodhaniennes
 
 ### Visuel
 
-- Couleur : jaune doré 
-- Intensité : intense 
-- Reflets : bronze
-- Larmes : 3/5
-- Bulles : -
+- Couleur :
+- Intensité : 
+- Reflets : 
+- Larmes :
+- Bulles : 
 
 ### Olfactif
 
-- Arômes dominants : calisson (frangipane), peche, , boisé
-- Complexité : hermosa
-- Évolution des arômes : ascendente
+- Arômes dominants :
+- Complexité : 
+- Évolution des arômes :
 
 ### Gustatif
 
